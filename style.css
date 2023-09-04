@@ -6,7 +6,7 @@ body {
 }
 body {
   width: 100vw;
-  height: 97vh;
+  height: 100vh;
   display: grid;  
   overflow: hidden;
   justify-items: center;
@@ -37,7 +37,7 @@ body {
   .6fr
   1.1fr;
   padding: 1.9%;
-  gap: .8%;
+  gap: .7%;
 
   aspect-ratio: 2 / 3;
 }
