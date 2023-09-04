@@ -192,5 +192,24 @@ body {
   background-color: black;
 }
 #box-37 {
+  grid-column: 6 / 8;
+  grid-row: 12 / span 2;
+  
+  background-color: black;
+}
+#box-38 {
+  grid-column: 8 / 10;
+  grid-row: 12 / span 2;
+}
+#box-39 {
+  grid-row: 12 / span 2;
+}
+#box-40 {
+
+}
+#box-41 {
+
+}
+#box-42 {
 
 }
