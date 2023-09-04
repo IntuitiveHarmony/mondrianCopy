@@ -103,6 +103,27 @@ body {
 #box-16 {
   grid-column: 3 / 5;
   grid-row: 6 / span 2;
-
+  
   background-color: cornflowerblue;
+}
+#box-17 {
+  grid-row: 6 / span 2;
+}
+#box-18 {
+  grid-column: 6 / 8;
+}
+#box-19 {
+  grid-column: 6 / 8;
+  grid-row: 7;
+}
+#box-20 {
+  grid-column: 8 / 10;
+  grid-row: 6 / span 2;
+  
+  background-color: yellow;
+}
+#box-21 {
+  grid-row: 6 / span 2;
+  
+  background-color: yellow;
 }
