@@ -156,10 +156,41 @@ body {
 }
 #box-28 {
   grid-column: 9 / 11;
-  
   grid-row: 8 / span 2;
+
   background-color: cornflowerblue;
 }
 #box-29 {
+  grid-row: 10 / span 3;
+}
+#box-30 {
+  grid-column: 2 / 6;
+  grid-row: 10 / span 4;
+  
+  background-color: cornflowerblue;
+}
+#box-31 {
+  grid-row: 10 / span 2;
+}
+#box-32 {
+  grid-row: 10 / span 2;
+}
+#box-33 {
+  grid-row: 10 / span 2;
+
+  background-color: black;
+}
+#box-34 {
+  grid-row: 10 / span 2;
+  
+  background-color: yellow;
+}
+#box-35 {
+  background-color: yellow;
+}
+#box-36 {
+  background-color: black;
+}
+#box-37 {
 
 }
